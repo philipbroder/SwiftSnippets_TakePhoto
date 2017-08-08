@@ -16,7 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		EAF34C391F3A1E2C0081183A /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		EAF34C391F3A1E2C0081183A /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = TakePhoto/README.md; sourceTree = "<group>"; };
 		EAF77F451F3A010D00BB6973 /* TakePhoto.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TakePhoto.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		EAF77F481F3A010D00BB6973 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		EAF77F4A1F3A010D00BB6973 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -40,6 +40,7 @@
 		EAF77F3C1F3A010D00BB6973 = {
 			isa = PBXGroup;
 			children = (
+				EAF34C391F3A1E2C0081183A /* README.md */,
 				EAF77F471F3A010D00BB6973 /* TakePhoto */,
 				EAF77F461F3A010D00BB6973 /* Products */,
 			);
@@ -62,7 +63,6 @@
 				EAF77F4F1F3A010D00BB6973 /* Assets.xcassets */,
 				EAF77F511F3A010D00BB6973 /* LaunchScreen.storyboard */,
 				EAF77F541F3A010D00BB6973 /* Info.plist */,
-				EAF34C391F3A1E2C0081183A /* README.md */,
 			);
 			path = TakePhoto;
 			sourceTree = "<group>";
